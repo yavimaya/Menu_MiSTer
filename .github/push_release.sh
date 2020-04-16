@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-CORE_NAME="Menu"
+CORE_NAME="menu"
 MAIN_BRANCH="master"
 
 if [[ "$(git log -n 1 --pretty=format:%an)" == "The CI/CD Bot" ]] ; then

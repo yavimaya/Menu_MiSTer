@@ -3,7 +3,7 @@
 set -euo pipefail
 
 UPSTREAM_REPO="https://github.com/MiSTer-devel/Menu_MiSTer.git"
-CORE_NAME="Menu"
+CORE_NAME="menu"
 MAIN_BRANCH="master"
 
 echo "Fetching upstream:"
